@@ -1,0 +1,23 @@
+li {
+    list-style-type: none;
+}
+
+.navbar {
+    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/02/image_50381313-scaled.jpg');
+    background-attachment: fixed;
+    background-position: auto,center top;
+}
+  
+
+.bgimg {
+    height: 450px;
+    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/02/image_50381313-scaled.jpg');
+    background-attachment: fixed;
+    background-position: center top;
+}
+
+.info {
+    font-size: 18px;
+    align-items: center;
+    padding-left: 25px;
+}
