@@ -3,21 +3,39 @@ li {
 }
 
 .navbar {
-    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/02/image_50381313-scaled.jpg');
+    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/01/DA-MEMBERSHIP.jpeg');
+    background-color: gray;
     background-attachment: fixed;
     background-position: auto,center top;
 }
   
 
 .bgimg {
-    height: 450px;
-    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/02/image_50381313-scaled.jpg');
-    background-attachment: fixed;
-    background-position: center top;
+    background-image: url('https://manoa.hawaii.edu/rio/katipunan/wp-content/uploads/2023/01/DA-MEMBERSHIP.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+}
+
+.imageText {
+    font: PlayfairDisplay;
 }
 
 .info {
     font-size: 18px;
     align-items: center;
     padding-left: 25px;
+}
+
+.navItems {
+    font-family: Quicksand;
+    font-size: 20px;
+    color: white;
+}
+
+.mainItem {
+    font-family: BenchNine;
+    font-size: 36px;
+    color: #383838;
 }
